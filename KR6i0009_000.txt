@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說寶網經
+#+DATE: 2015-08-30 20:07:31.707078
+#+PROPERTY: JUAN 0
